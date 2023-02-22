@@ -1,0 +1,32 @@
+CRT PYTHON DAY 3 TECHNICAL TRAINING
+l=[1,4,7.4,"sam"]
+l
+[1,4,7.4,'sam']
+l[3]
+'sam'
+l[2:3]
+[7.4]
+l[2:4]
+[7.4,'sam']
+l[0:]
+[1,4,7.4,'sam']
+l[:3]
+[1,4,7.4]
+l[-1]
+'sam'
+l[::-1]
+['sam',7.4,4,1]
+#append()-add an element at the end
+#extend()-add more elements in the list
+#insert()-insert an element at a particular position in the list
+#remove()-remove an element using value
+#pop()-remove an element using index
+#clear()-clear all the elements in the list
+#index()-returns the index of the first matched value
+#count()-count of repeated elements
+#sort()-arranging the elements in the ascending order
+#reverse()-reverse the list
+#copy()-copies the list 
+1.create a list with 10 elements print the elements one by one
+2.create a list with 5 float numbers find and display sum and average of the list 
+3.after creating a list with 6 elements from the user extract only even numbers and print
